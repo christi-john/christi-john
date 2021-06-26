@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on: Python & ML
 - 💬 Here's my website: https://christijohn.me
 - 📫 How to reach me: christiana.john1@gmail.com
-- ⚡ Fun fact: Work from Home is growing on me...
+- ⚡ Fun fact: Work from home is growing on me...
 <br>
 
 # 📊 GitHub Stats
